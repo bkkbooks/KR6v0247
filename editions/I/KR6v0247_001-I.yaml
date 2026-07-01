@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0247/i/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 郭世貴一心供養清信駱花嬰一心供養佛時夫大覺神遷非經像無以表其真益世閏時憑形質如取利然僧演減割衣鉢之資造石像壹區金像三區浮圖三級大般涅槃經兩部雜經三百品供養僧卅人上為國主百僚師徒所生法界之類咸同正覺大統四年歲次戊午七月十五日比丘僧演敬造供養比丘道暈比丘僧暢比丘僧通比丘僧演比丘僧普比丘惠云比丘法迴比丘僧敬比丘僧轁比丘僧端比丘法豪比丘道賢比丘僧曠比丘僧云比丘僧和比丘惠遵比丘僧濟比丘道洸比丘僧玉比丘法崇比丘僧均比丘法和董大女供養佛清信士萬董當供養佛時董僧供養佛時董歡供養佛時清信女趙季寄供養董樂供養佛清信女李供養姚舍欣供養佛殄難將軍郭穆供養佛清信女李妙供養伏波將軍任歡供養佛
+  hash: sha256:88a1938e75e55f5c009fe67b833e2f02bf5508a1fb857a614852ac8f01239b5b
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 僧演造像記, id: KR6v0247_I_001-juan-start, juan_n: '001', jhead: 僧演造像記}
+metadata:
+  title: 僧演造像記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0038.xml
+    old_id: I01n0038
+hash: sha256:d991ba2bd71cc0245f6f073df81ec7d4b9641c088991bbfc4c42fa23b3bf3abe

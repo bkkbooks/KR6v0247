@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0247/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 僧演造像記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0038.xml
+    old_id: I01n0038
+hash: sha256:e8a8366816f1d61cf1e5811a5d45323c0609127c523ce427cf9c324629cdbd27
